@@ -1,0 +1,7 @@
+C:\Users\admin E5530\OneDrive - City of Glasgow College\HND\Data Structures\Fundamentals Excercises\StaticList\StaticList\obj\Debug\StaticList.csprojAssemblyReference.cache
+C:\Users\admin E5530\OneDrive - City of Glasgow College\HND\Data Structures\Fundamentals Excercises\StaticList\StaticList\obj\Debug\StaticList.csproj.CoreCompileInputs.cache
+C:\Users\admin E5530\OneDrive - City of Glasgow College\HND\Data Structures\Fundamentals Excercises\StaticList\StaticList\bin\Debug\StaticList.exe.config
+C:\Users\admin E5530\OneDrive - City of Glasgow College\HND\Data Structures\Fundamentals Excercises\StaticList\StaticList\bin\Debug\StaticList.exe
+C:\Users\admin E5530\OneDrive - City of Glasgow College\HND\Data Structures\Fundamentals Excercises\StaticList\StaticList\bin\Debug\StaticList.pdb
+C:\Users\admin E5530\OneDrive - City of Glasgow College\HND\Data Structures\Fundamentals Excercises\StaticList\StaticList\obj\Debug\StaticList.exe
+C:\Users\admin E5530\OneDrive - City of Glasgow College\HND\Data Structures\Fundamentals Excercises\StaticList\StaticList\obj\Debug\StaticList.pdb
